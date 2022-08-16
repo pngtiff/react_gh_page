@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/react_gh_page/static/css/main.073c9b0a.css",
-    "main.js": "/react_gh_page/static/js/main.0e55626e.js",
-    "static/js/787.2b5d27e4.chunk.js": "/react_gh_page/static/js/787.2b5d27e4.chunk.js",
-    "static/media/logo.svg": "/react_gh_page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react_gh_page/static/css/main.0d4053fc.css",
+    "main.js": "/react_gh_page/static/js/main.eed351a5.js",
+    "static/media/feature3.png": "/react_gh_page/static/media/feature3.490b72652434620424d5.png",
+    "static/media/main.png": "/react_gh_page/static/media/main.8b6d00d766cc8de9aaad.png",
+    "static/media/feature2.png": "/react_gh_page/static/media/feature2.5df7d992dfca2d2918cc.png",
+    "static/media/feature1.png": "/react_gh_page/static/media/feature1.69302fd9c769bc7eab97.png",
+    "static/media/talkingtiff_650.png": "/react_gh_page/static/media/talkingtiff_650.5fd22f5024cd5ac084f6.png",
     "index.html": "/react_gh_page/index.html",
-    "main.073c9b0a.css.map": "/react_gh_page/static/css/main.073c9b0a.css.map",
-    "main.0e55626e.js.map": "/react_gh_page/static/js/main.0e55626e.js.map",
-    "787.2b5d27e4.chunk.js.map": "/react_gh_page/static/js/787.2b5d27e4.chunk.js.map"
+    "main.0d4053fc.css.map": "/react_gh_page/static/css/main.0d4053fc.css.map",
+    "main.eed351a5.js.map": "/react_gh_page/static/js/main.eed351a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0e55626e.js"
+    "static/css/main.0d4053fc.css",
+    "static/js/main.eed351a5.js"
   ]
 }
